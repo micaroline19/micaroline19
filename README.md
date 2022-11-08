@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @micaroline19
-- 👀 I’m interested in learning languages ​​and programming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: in instagram @miih_caroline 
+oie 
+segue la no insta @miih_caroline 
 
 <!---
 micaroline19/micaroline19 is a ✨ special ✨ repository 
